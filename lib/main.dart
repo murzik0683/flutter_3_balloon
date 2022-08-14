@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         home: Scaffold(
-      backgroundColor: Colors.orangeAccent,
+      backgroundColor: Colors.purpleAccent,
       appBar: AppBar(title: const Text("Шарики"), centerTitle: true),
       body: Padding(
         padding: const EdgeInsets.all(10.0),
